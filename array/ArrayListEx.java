@@ -20,7 +20,7 @@ public class ArrayListEx {
         }
 
         for(int i=0; i<5; i++) { // get item at any index
-            System.out.println(list.get(i));
+            System.out.print(list.get(i));
         }
 
         System.out.println(list);
